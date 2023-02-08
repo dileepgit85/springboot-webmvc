@@ -8,6 +8,7 @@ public class SpringbootWebmvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootWebmvcApplication.class, args);
+		System.out.println("Spring Boot applciation end");
 	}
 
 }
